@@ -61,6 +61,9 @@ Incomes by State
 Industries
 Product Inventory
 Purchase List
+![image](https://github.com/maselim/Project-Market-Analysis-Report-for-National-Clothing-Chain/assets/52356062/2d20ccbb-6139-483f-a798-9b47cefab6b6)
+![image](https://github.com/maselim/Project-Market-Analysis-Report-for-National-Clothing-Chain/assets/52356062/6eca2b7f-23c5-4ec5-a535-f2d7a904b6bd)
+
 State List
 Set up the data in Power Query so that all the columns are correctly formatted and structured. Some of the tables will require steps in Power Query to be correctly set up.
 Set up your table relationships. All tables you import should be tied into the table relationships. Avoid many-to-many relationships as they’re not needed and will cause issues with cross-filtering.
